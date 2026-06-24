@@ -7,8 +7,8 @@ const defaultMarkets = [
     name: "France", 
     city: "Paris", 
     code: "fr", 
-    img: "image_8cace3.jpg", // Referencing your exact file verbatim
-    url: "#", 
+    img: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200", // City image 
+    url: "https://collaborative-bmc.vercel.app/canvas/8fzr4ud4ikw0pvvn61qutsexk3ckncei", 
     custom: false
   },
   {
